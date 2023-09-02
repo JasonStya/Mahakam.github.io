@@ -1,0 +1,100 @@
+.nav_bars{
+    background-color: #7ce2df;
+    position: fixed;
+    z-index: 3;
+    box-shadow:0px 0px 20px 1px;
+}
+
+.nav_title{
+    color: #02b8aa;
+
+}
+
+.nav_img{
+    padding-top: 4px;
+}
+
+.title_nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav_title_off{
+    color: #02b8aa;
+    float: left;
+}
+
+.nav_ul{
+    display: flex;
+    gap: 20px;
+}
+
+.nav_li{
+    padding: 5px ;
+}
+
+.offcas_navbar{
+    background-color: #7ce2df;
+}
+
+
+.nav_li:hover{
+    background-color: #D5F7F4;
+    border-radius: 10px;
+    transition: ease-in 0.5s;
+}
+
+.nav_li .nav_a:hover{
+    color:#02b8aa;
+}
+
+.nav_li.on{
+    background-color: #02b8aa;
+    border-radius: 10px;
+}
+
+.nav_li .nav_a.act{
+    color: #7ce2df;
+}
+
+.nav_li .nav_a{
+    color: #02b8aa;
+}
+
+.offcas_navbar_h{
+    background-color: #7ce2df;
+}
+
+.offcas_navbar_b{
+    background-color: #7ce2df;
+}
+
+/* ======= FOOTER ======== */
+
+#footer{
+    background-color: #7ce2df;
+}
+
+.line_f{
+    border-top:3px solid #02b8aa;
+}
+
+.Mahakam_detail{
+    margin-right: 50px;
+}
+
+.Mahakam_detail h4{
+    color: #02b8aa;
+}
+
+.Mahakam_news h4{
+    color: #02b8aa;
+}
+
+.facebook{
+    color: #02b8aa;
+}
+
+.linkedin{
+    color: #02b8aa;
+}

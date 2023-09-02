@@ -1,0 +1,46 @@
+#SIAPA{
+    padding-top: 70px;
+}
+
+
+.Siapa_title{
+    color: #02b8aa;
+    border-bottom: 2px solid #02b8aa;
+}
+
+.Siapa_title2{
+    color: #02b8aa;
+}
+
+.Siapa_img{
+    border: #02b8aa solid 3px;
+    border-radius: 20px;
+}
+
+
+
+#visi_misi{
+    background-color: #D5F7F4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.visi_misi_title{
+    color: #02b8aa;
+    border-bottom: 2px solid #02b8aa;
+}
+
+.visi_misi_title2{
+    color: #02b8aa;
+}
+
+
+
+.value_culture_title{
+    color: #02b8aa;
+    border-bottom: 2px solid #02b8aa;
+}
+
+.value_culture_title2{
+    color: #02b8aa;
+}

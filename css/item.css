@@ -1,0 +1,34 @@
+#item{
+    padding-top: 120px ;
+    padding-bottom: 100px;
+}
+
+.item_title{
+    color: #02b8aa;;
+    border-bottom: 3px solid #02b8aa;
+}
+
+.product_row{
+    display: flex;
+    flex-wrap: wrap;
+    gap:50px;
+    justify-content: space-evenly;
+}
+
+.product{
+    text-align: center;
+}
+
+.text_item{
+    margin-top: 10px;
+}
+
+.product_item{
+    border-radius: 10px;
+    border: 5px solid #02b8aa;
+}
+
+.product_item:hover{
+    transform: scale(1.1);
+    transition: ease 0.5s;
+}
